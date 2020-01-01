@@ -1,0 +1,2 @@
+RENAME THE DLL TO "chop" EXACTLY!!!!
+OR IT WONT WORK!!!
