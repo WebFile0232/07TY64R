@@ -1,2 +1,0 @@
-RENAME THE DLL TO "FragLabs" EXACTLY!!!!
-OR IT WONT WORK!!!
